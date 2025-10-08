@@ -1,16 +1,17 @@
 ## Hi there 👋
 
-<!--
-**carloseducori/carloseducori** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### What I Do
+- **DevOps**: Building and maintaining scalable, reliable, and secure infrastructure.
+- **Data**: Managing, processing, and extracting valuable insights from large datasets.
+- **MLOps**: Streamlining the machine learning lifecycle to deploy and manage models efficiently.
+- **Linux**: Extensive experience with Linux systems, from server management to automation.
 
-Here are some ideas to get you started:
+### Tech Stack
+- **Languages**: Python, Bash, SQL, and more.
+- **Tools**: Docker, Kubernetes, Jenkins, Terraform, Ansible, and various cloud platforms (AWS, GCP, Azure).
+- **Frameworks**: TensorFlow, PyTorch, and other machine learning frameworks.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Connect with Me
+I'm always excited to collaborate on new projects or discuss innovative ideas. Feel free to reach out!
+
+ 
